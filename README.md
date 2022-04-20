@@ -35,14 +35,33 @@
 
 
 <!-- SKILLS -->
+### Skills
+### Languages
+### Technologies
+### Frameworks
+### Tools
+
+<!-- 
+<div align="left">  
+  <img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" title="" alt="J" width="30" height="30"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" title="" alt="J" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="" alt="J" width="30" height="30"/>&nbsp;
+</div>
+-->
 
 <!-- STATS -->
-<div id="badges"  align="center">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A143-S&langs_count=9&theme=gotham" alt="Top Langs"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=A143-S&theme=gotham" alt="contributions stats"/>
-  </div>
-  <div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A143-S&theme=tokyonight" alt="contributions stats"/>
-  </div>  
+### GitHub stats
+
+<div id="badges"  align="left">
+  <p><img src="https://github-readme-stats.vercel.app/api?username=A143-S&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&card_width=500" alt="contributions stats"/></p>
+  
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A143-S&layout=compact&langs_count=9&hide_border=true&hide_title=false&card_width=450&theme=tokyonight"></p>
+  
+   <p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A143-S&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="contributions stats"/></p>  
+    
 </div>
+
+<!-- TODO: Footer ### bye 👋 -->
+
