@@ -1,6 +1,40 @@
-### Hi there 👋
+<!-- TODO: Header ### Hi there 👋 -->
 
-<!--
+
+<!-- REDES -->
+<div id="badges"  align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+    <a href="#">
+    <img src="https://img.shields.io/badge/reddit-red?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+<!-- SKILLS -->
+
+<!-- STATS -->
+
+<img src="https://img.shields.io/github/followers/A143-S.svg?style=social&label=Follow&maxAge=2592000"/>
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A143-S&hide=javascript,css,scss,html&theme=gotham) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A143-S&layout=compact&hide=html,hack,css&theme=gotham)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=A143-S&theme=gotham)
+
+![Trophys](https://github-profile-trophy.vercel.app/?username=A143-S&theme=onedark)
+
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A143-S&theme=tokyonight)
+
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=A143-S&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false) -->
+
+ <!--
 **A143-S/A143-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,15 +52,12 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=A143-S&theme=tokyonight"/>&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A143-S&hide=javascript,css,scss,html&theme=tokyonight)
-
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A143-S&hide=javascript,css,scss,html&theme=dracula)
 
 <img src="https://github-readme-stats.vercel.app/api?username=A143-S&theme=dracula"/>-->
 
-<img src="https://img.shields.io/github/followers/A143-S.svg?style=social&label=Follow&maxAge=2592000"/>
+
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
@@ -62,7 +93,6 @@ Here are some ideas to get you started:
 
 <div id="badges"  align="center">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=A143-S&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
 
 </div>
 
@@ -71,20 +101,7 @@ Here are some ideas to get you started:
 
 
  
-<div id="badges"  align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-    <a href="#">
-    <img src="https://img.shields.io/badge/reddit-red?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+
 
 
 
@@ -126,3 +143,4 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;
 </div>
 
+ <img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
