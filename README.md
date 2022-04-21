@@ -1,4 +1,16 @@
 <!-- TODO: Header ### Hi there 👋 -->
+
+### Hi There, Im A143
+
+* 📖 I like to learn new stuff
+* 🩸 O+
+* 📚 Mystery · Horror · Fantasy · Science Fiction · Dystopian · Action & Adventure 
+* 🎮 Videogames 
+* 📺 Anime/Cartoon/Series/Movies
+
+
+"So many things yet so little time"
+
 <img src="https://img.shields.io/github/followers/A143-S.svg?style=social&label=Follow&maxAge=2592000"/>
 <!-- REDES 
 <div id="badges"  align="center">
@@ -34,7 +46,7 @@
 
 
 <!-- SKILLS -->
-### Languages, Tools, Frameworks and Other Technologies 
+### My Skill Set
 <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
 <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
 <img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
