@@ -1,6 +1,5 @@
 <!-- TODO: Header ### Hi there 👋 -->
 <img src="https://img.shields.io/github/followers/A143-S.svg?style=social&label=Follow&maxAge=2592000"/>
-
 <!-- REDES 
 <div id="badges"  align="center">
   <a href="#">  
@@ -35,8 +34,7 @@
 
 
 <!-- SKILLS -->
-### Skills
-### Languages
+### Languages, Tools, Frameworks and Other Technologies 
 <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
 <img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
 <img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
@@ -46,23 +44,24 @@
 <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
 <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
 
-### Frameworks
 <img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
 <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="30" height="30"/>&nbsp;
 <!-- TODO
-//spring 
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="30" height="30"/>&nbsp;
+Ionic
+ReactNative
+Android
 -->
 
-### Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" height="30"/>&nbsp;
 <img src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
 <!-- TODO:
 //eclipse (sts)
-//postman
 //spider
+notepad++
 -->
 
-### DB
 <img src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
 <!-- TODO
 <img src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
@@ -70,8 +69,6 @@
 //ORACLE
 -->
 
-### Other Technologies
-<img src="https://icongr.am/devicon/jquery-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" width="30" height="30"/>&nbsp;
 <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
@@ -80,12 +77,21 @@
 <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
 <img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
 <img src="https://icongr.am/devicon/jquery-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="30" height="30"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" width="30" height="30"/>&nbsp;
 <!-- TODO: 
 <img src="https://icongr.am/devicon/debian-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
 <img src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
 Maven,
 Bootstrap,
-docker
+docker,
+Tensor Flow,
+postman
+
+https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg
+https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg
+https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg
+https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg
 -->
 
 <!-- 
