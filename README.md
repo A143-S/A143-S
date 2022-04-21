@@ -37,9 +37,56 @@
 <!-- SKILLS -->
 ### Skills
 ### Languages
-### Technologies
+<img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
+<img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
+<img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
+<img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
+<img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
+<img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
+<img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
+<img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
+
 ### Frameworks
+<img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
+<img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
+<!-- TODO
+//spring 
+-->
+
 ### Tools
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" height="30"/>&nbsp;
+<img src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
+<!-- TODO:
+//eclipse (sts)
+//postman
+//spider
+-->
+
+### DB
+<img src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
+<!-- TODO
+<img src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
+//MSSQL
+//ORACLE
+-->
+
+### Other Technologies
+<img src="https://icongr.am/devicon/jquery-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="30" height="30"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" width="30" height="30"/>&nbsp;
+<img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
+<img src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
+<img src="https://icongr.am/devicon/gitlab-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
+<img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
+<img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
+<img src="https://icongr.am/devicon/jquery-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
+<!-- TODO: 
+<img src="https://icongr.am/devicon/debian-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
+<img src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" width="30" height="30"/>&nbsp;
+Maven,
+Bootstrap,
+docker
+-->
 
 <!-- 
 <div align="left">  
@@ -52,14 +99,17 @@
 -->
 
 <!-- STATS -->
-### GitHub stats
+### Stats
 
 <div id="badges"  align="left">
-  <p><img src="https://github-readme-stats.vercel.app/api?username=A143-S&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&card_width=500" alt="contributions stats"/></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=A143-S&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&card_width=500" alt="contributions stats"/></p>
   
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A143-S&layout=compact&langs_count=9&hide_border=true&hide_title=false&card_width=450&theme=tokyonight"></p>
+   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=A143-S&hide_title=true&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Streaks"/></p>  
+    
   
-   <p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A143-S&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="contributions stats"/></p>  
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A143-S&hide_title=true&layout=compact&langs_count=9&hide_border=false&hide_title=false&card_width=450&theme=tokyonight"></p>
+  
+   <!-- <p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A143-S&hide_title=true&hide_border=true&show_icons=true&include_all_commits=false&count_private=false&theme=tokyonight" alt="contributions stats"/></p>  -->
     
 </div>
 
