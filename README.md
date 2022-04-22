@@ -115,7 +115,7 @@ https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-orig
 </div>
 -->
 
-<!-- STATS -->
+<!-- STATS 
 ### Stats
 
 <div id="badges"  align="left">
@@ -126,9 +126,9 @@ https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-orig
   
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A143-S&hide_title=true&layout=compact&langs_count=9&hide_border=false&hide_title=false&card_width=450&theme=tokyonight"></p>
   
-   <!-- <p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A143-S&hide_title=true&hide_border=true&show_icons=true&include_all_commits=false&count_private=false&theme=tokyonight" alt="contributions stats"/></p>  -->
+   <!-- <p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A143-S&hide_title=true&hide_border=true&show_icons=true&include_all_commits=false&count_private=false&theme=tokyonight" alt="contributions stats"/></p> 
     
-</div>
+</div> -->
 
 <!-- TODO: Footer ### bye 👋 -->
 
